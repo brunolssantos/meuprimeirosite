@@ -1,0 +1,26 @@
+body
+{
+	background-color:#CCCCCC;
+}
+
+h1,h2,h3
+{
+	font-family:Verdana;
+}
+section
+{
+	background-color:#FFFFFF;
+	font-family:Arial;
+	padding:10px;
+}
+
+footer
+{
+	background-color:#000000;
+	color:#FFFFFF;
+	font-family:Verdana;
+	font-size:12px;
+	text-align:center;
+	padding:8px;
+}
+
